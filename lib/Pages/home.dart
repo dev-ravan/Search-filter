@@ -1,8 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:search_filter/Modules/animals_mod.dart';
+import 'package:search_filter/Models/animals_mod.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
